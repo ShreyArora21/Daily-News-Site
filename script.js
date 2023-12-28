@@ -1,5 +1,5 @@
 const API_KEY = "701d8e17810c4317a0d80fb0222affc3";
-const url = "https://newsapi.org/v2/everything?q=";
+const url = "http://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => fetchNews("plane"));
 
